@@ -126,15 +126,22 @@ Zero dependencies · Zero build steps · Single HTML file · ~3,500 lines of pur
 
 ## 📸 Screenshots
 
-> *Add your screenshots here.*
+> *<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5177d2b-e5c2-4729-be2c-32ece89b834f" />
+*
 
 | Title Screen | Fight Arena | Character Select |
 |:---:|:---:|:---:|
-| `title.png` | `fight.png` | `chars.png` |
+| `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef00e226-d3ec-4a67-b9ea-2e8cc1d8c2c6" />
+` | `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0894c963-89d5-4394-b3d8-48508bf88d16" />
+` | `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8255ac31-2190-4b50-9a97-a41d390d48ec" />
+` |
 
 | Online Lobby | Result Screen | Shop |
 |:---:|:---:|:---:|
-| `online.png` | `result.png` | `shop.png` |
+| `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee7dd3a4-7c7a-4150-86a2-f0cdec269bcd" />
+` | `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a04ea86-c123-438b-bbc8-6b7eb358f31c" />
+` | `<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f80d093b-d144-40c9-a87b-7372ea0beb46" />
+` |
 
 ---
 
