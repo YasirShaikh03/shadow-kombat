@@ -262,7 +262,7 @@ const SOCKET_URL = '';  // Leave empty for local dev (will use simulated mode)
 ```
 3. Replace with your deployed server URL:
 ```js
-const SOCKET_URL = 'https://your-server.onrender.com';
+const SOCKET_URL = '(https://yasirshaikh03.github.io/shadow-kombat/)';
 ```
 
 ### Required Socket.IO Server Events
