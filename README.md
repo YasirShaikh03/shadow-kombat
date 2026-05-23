@@ -126,7 +126,8 @@ Zero dependencies · Zero build steps · Single HTML file · ~3,500 lines of pur
 
 ## 📸 Screenshots
 
-> *<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f5177d2b-e5c2-4729-be2c-32ece89b834f" />
+> *<img width="1919" height="897" alt="image" src="https://github.com/user-attachments/assets/e4ad29b5-17f5-43e2-aee8-72a2a179e2ff" />
+/>
 *
 
 | Title Screen | Fight Arena | Character Select |
